@@ -2,27 +2,29 @@
 <div align="center">
 
 # 👨‍💻 **Alejandro Loza (SuitPumpkin)**
-### Full-Stack Software Developer | .NET | Python | React
+### Full-Stack Software Developer  
+### C# .NET • Python • JavaScript/React • SQLite & MySQL
 
-Apasionado por crear soluciones **escalables**, **mantenibles** y con **arquitectura clara**, utilizando herramientas modernas como  
-**C# .NET, Python, JavaScript/React, SQLite y MySQL**.
+Desarrollador de software con un enfoque **generalista** y experiencia en múltiples tecnologías.  
+Me especializo en crear soluciones **escalables**, **mantenibles** y con **arquitectura clara**, utilizando principios de  
+POO, patrones de diseño, MVVM y buenas prácticas de ingeniería.
 
-Siempre aprendiendo, siempre construyendo. 🚀
+Siempre aprendiendo. Siempre construyendo. 🚀
 
 ---
 
-### 🌐 **Mis perfiles**
+### 🌐 **Mis Perfiles**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuitPumpkin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff8800.svg?style=for-the-badge&logo=react&logoColor=white)](https://portafolio-six-beta-87.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuitPumpkin)
 
----
-
 </div>
+
+---
 
 # 🛠️ **Tech Stack**
 
-### 💻 Lenguajes
+### 💻 Lenguajes Principales
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?style=plastic&logo=javascript&logoColor=000)
@@ -33,6 +35,7 @@ Siempre aprendiendo, siempre construyendo. 🚀
 ### 🧩 Frameworks & Tecnologías
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=plastic&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A.svg?style=plastic&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-20232A.svg?style=plastic&logo=vite&logoColor=32a852)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=plastic&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=plastic&logo=mysql&logoColor=white)
@@ -42,6 +45,7 @@ Siempre aprendiendo, siempre construyendo. 🚀
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
 
 ---
 
@@ -54,12 +58,6 @@ Siempre aprendiendo, siempre construyendo. 🚀
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuitPumpkin&layout=compact&theme=tokyonight&hide_border=false" height="135px" />
 
 ---
-
-<!-- Desactivado, pero listo si quieres activarlo -->
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SuitPumpkin&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
--->
 
 [![](https://visitcount.itsvg.in/api?id=SuitPumpkin&icon=2&color=6)](https://visitcount.itsvg.in)
 
