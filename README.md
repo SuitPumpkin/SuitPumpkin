@@ -42,17 +42,3 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
 
 ---
-
-<div align="center">
-
-# 📊 **GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=SuitPumpkin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuitPumpkin&layout=compact&theme=tokyonight&hide_border=false" height="135px" />
-
----
-
-[![](https://visitcount.itsvg.in/api?id=SuitPumpkin&icon=2&color=6)](https://visitcount.itsvg.in)
-
-</div>
