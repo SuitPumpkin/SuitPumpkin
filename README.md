@@ -1,5 +1,8 @@
-<!-- Encabezado con presentación centrada -->
+
+
 <div align="center">
+  
+![pumpkin gif](https://github.com/user-attachments/assets/69d24e39-cde4-4772-8d61-e32bee8feff2)
 
 # 👨‍💻 **Alejandro Loza (SuitPumpkin)**
 ### Full-Stack Software Developer  
