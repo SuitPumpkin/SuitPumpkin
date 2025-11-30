@@ -2,9 +2,10 @@
 
 <div align="center">
   
-![pumpkin gif](https://github.com/user-attachments/assets/69d24e39-cde4-4772-8d61-e32bee8feff2)
+![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/e291abc6-73ab-4756-b46f-5e8e3b2e00f4)
 
-# 👨‍💻 **Alejandro Loza (SuitPumpkin)**
+
+# **Alejandro Loza (SuitPumpkin)**
 ### Full-Stack Software Developer  
 ### C# .NET • Python • JavaScript/React • SQLite & MySQL
 
@@ -12,18 +13,14 @@ Desarrollador de software con un enfoque **generalista** y experiencia en múlti
 Me especializo en crear soluciones **escalables**, **mantenibles** y con **arquitectura clara**, utilizando principios de  
 POO, patrones de diseño, MVVM y buenas prácticas de ingeniería.
 
-Siempre aprendiendo. Siempre construyendo. 🚀
-
----
-
-### 🌐 **Mis Perfiles**
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/cf2b0a81-8ed4-4713-b418-e243274bc540)
+### 🌐 **Mis Redes** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuitPumpkin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff8800.svg?style=for-the-badge&logo=react&logoColor=white)](https://portafolio-six-beta-87.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuitPumpkin)
-
 </div>
 
----
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/cf2b0a81-8ed4-4713-b418-e243274bc540)
 
 # 🛠️ **Tech Stack**
 
