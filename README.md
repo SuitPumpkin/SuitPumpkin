@@ -5,13 +5,7 @@
 ![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/e291abc6-73ab-4756-b46f-5e8e3b2e00f4)
 
 
-# **Alejandro Loza (SuitPumpkin)**
-### Full-Stack Software Developer  
-### C# .NET • Python • JavaScript/React • SQLite & MySQL
-
-Desarrollador de software con un enfoque **generalista** y experiencia en múltiples tecnologías.  
-Me especializo en crear soluciones **escalables**, **mantenibles** y con **arquitectura clara**, utilizando principios de  
-POO, patrones de diseño, MVVM y buenas prácticas de ingeniería.
+### **Alejandro Loza (SuitPumpkin)**
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/cf2b0a81-8ed4-4713-b418-e243274bc540)
 ### 🌐 **Mis Redes** 
