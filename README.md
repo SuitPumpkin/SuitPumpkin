@@ -89,24 +89,9 @@ Projects that represent different parts of my technical experience and the way I
 
 ## Pronostika
 
-**Full-stack weather intelligence platform**
-
-[![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin/Will-It-Rain-On-My-Parade)
-
 Pronostika is a web application created for the **NASA Space Apps Challenge 2025**. The project processes meteorological and environmental data to help users evaluate weather risks for future outdoor activities.
 
-The project combines a modern frontend with a Python backend, external APIs, data processing and predictive models.
-
-**Highlights**
-
-* Full-stack client/server architecture
-* Vue frontend
-* Python backend
-* REST API integration
-* NASA environmental and meteorological data
-* Data processing with Python
-* Predictive modeling
-* Built under a very short development timeframe
+[![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin/Will-It-Rain-On-My-Parade)
 
 `Python` `Vue.js` `Flask` `REST APIs` `NASA APIs` `Pandas` `NumPy` `Machine Learning`
 
@@ -114,49 +99,19 @@ The project combines a modern frontend with a Python backend, external APIs, dat
 
 ## Down 2 Get Cooked
 
-**Commercial game currently in development**
+*Down 2 Get Cooked is an ongoing game development project built with **Unity and C#**. The project is being developed with the long-term goal of becoming a complete commercial game and eventually being released on **Steam**.
 
 [![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin)
 
-Down 2 Get Cooked is an ongoing game development project built with **Godot 4 and C#**.
-
-The project is being developed with the long-term goal of becoming a complete commercial game and eventually being released on **Steam**.
-
-It represents my current interest in game development as more than experimentation: designing systems, building gameplay, organizing a production-ready codebase and developing a project from concept toward a complete product.
-
-**Focus areas**
-
-* Gameplay programming
-* Game systems and architecture
-* C# development
-* Godot 4
-* Interactive systems
-* Iterative development
-* Commercial game production
-
-`Godot` `C#` `Game Development` `Gameplay Programming`
+`Unity` `C#` `Game Development` `Gameplay Programming`
 
 ---
 
 ## Multimedia Format Converter
 
-**Portable desktop multimedia conversion application**
+A WPF desktop application designed to convert image, audio and video files between multiple formats. One of my early projects focused not only on developing the application itself, but also on **shipping it as an easily distributable desktop product**, including installer and portable versions.
 
 [![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin/MultimediaFormatConverter)
-
-A WPF desktop application designed to convert image, audio and video files between multiple formats.
-
-One of my early projects focused not only on developing the application itself, but also on **shipping it as an easily distributable desktop product**, including installer and portable versions.
-
-**Highlights**
-
-* Image, audio and video conversion
-* Drag & drop workflow
-* Batch file processing
-* Conversion progress tracking
-* WPF desktop interface
-* Installer distribution
-* Portable version
 
 `C#` `.NET` `WPF` `Desktop Development`
 
@@ -164,22 +119,9 @@ One of my early projects focused not only on developing the application itself, 
 
 ## SuitPumpkin's Resin Checker
 
-**API-driven automation tool**
+A Python-based utility created to monitor resources from **Genshin Impact and Honkai: Star Rail**. This project was particularly important in my development because it introduced me to practical **API consumption, scraping and automation**, moving beyond traditional application development.
 
 [![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin/SuitPumpkins-Resin-Checker)
-
-A Python-based utility created to monitor resources from **Genshin Impact and Honkai: Star Rail**.
-
-This project was particularly important in my development because it introduced me to practical **API consumption, scraping and automation**, moving beyond traditional application development.
-
-**Highlights**
-
-* API integration
-* Web scraping
-* Automation
-* Python scripting
-* External service integration
-* Standalone utility development
 
 `Python` `APIs` `Web Scraping` `Automation`
 
@@ -187,13 +129,9 @@ This project was particularly important in my development because it introduced 
 
 ## Gestor X
 
-**Desktop project management application**
+Gestor X is a desktop project management application that played an important role in developing my experience with **C# and .NET desktop applications**. Although active development has since stopped, the project represents a significant stage in my transition toward more structured application development.
 
 [![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin/Gestor_X)
-
-Gestor X is a desktop project management application that played an important role in developing my experience with **C# and .NET desktop applications**.
-
-Although active development has since stopped, the project represents a significant stage in my transition toward more structured application development.
 
 `C#` `.NET` `SQLite` `Desktop Development`
 
@@ -205,7 +143,7 @@ Although active development has since stopped, the project represents a signific
 
 A local-first portable password manager built with **Electron, React and Vite**, featuring encrypted local storage, AES-256-GCM encryption, Argon2id key derivation, Context Bridge / IPC communication and native encrypted vault backups.
 
-[View repository →](https://github.com/SuitPumpkin/SPPasswordVault)
+[![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin/SPPasswordVault)
 
 `React` `Electron` `TypeScript` `Cryptography` `Security`
 
@@ -215,7 +153,7 @@ A local-first portable password manager built with **Electron, React and Vite**,
 
 A product-focused web interface exploring interactive product presentation, UI composition and modern frontend development.
 
-[View repository →](https://github.com/SuitPumpkin/Productshowcase)
+[![Repository](https://img.shields.io/badge/View_Repository-262626?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SuitPumpkin/Productshowcase)
 
 `React` `Frontend` `UI`
 
