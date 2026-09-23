@@ -38,59 +38,9 @@ Building software across web, desktop and games.
 
 <br>
 
-<a href="https://github.com/SuitPumpkin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SuitPumpkin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
-</a>
-&nbsp;
-<a href="https://github.com/SuitPumpkin">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuitPumpkin&layout=compact&hide_border=true&langs_count=10&theme=github_dark" />
-</a>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuitPumpkin&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuitPumpkin&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=SuitPumpkin&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-# Contribution Matrix
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SuitPumpkin/SuitPumpkin/output/github-contribution-grid-snake.svg" />
-
-<br><br>
-
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=SuitPumpkin&theme=dark&bg=false" />
-
-</div>
-
----
-
-# GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SuitPumpkin&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -182,32 +132,6 @@ Building software across web, desktop and games.
 
 ---
 
-# Featured Work
-
-<div align="center">
-
-<a href="https://github.com/SuitPumpkin/Will-It-Rain-On-My-Parade">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuitPumpkin&repo=Will-It-Rain-On-My-Parade&theme=github_dark&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/SuitPumpkin/MultimediaFormatConverter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuitPumpkin&repo=MultimediaFormatConverter&theme=github_dark&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/SuitPumpkin/SPPasswordVault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuitPumpkin&repo=SPPasswordVault&theme=github_dark&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/SuitPumpkin/SuitPumpkins-Resin-Checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuitPumpkin&repo=SuitPumpkins-Resin-Checker&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
 # Currently Building
 
 <div align="center">
@@ -266,25 +190,5 @@ Software development · Game development · Digital media · Creative technology
 <a href="mailto:rodrigoalozan@gmail.com">
   <img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-262626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## More GitHub
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SuitPumpkin&layout=compact&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<a href="https://github.com/SuitPumpkin">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuitPumpkin&show_icons=true&hide=issues&hide_border=true&theme=github_dark" />
-</a>
-
-<br><br>
-
-`SuitPumpkin`
 
 </div>
