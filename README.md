@@ -138,7 +138,7 @@ Building software across web, desktop and games.
 
 ### DOWN 2 GET COOKED
 
-**Godot 4 · C# · Game Development**
+**Unity · C# · Game Development**
 
 An ongoing game project being developed toward a complete commercial release.
 
