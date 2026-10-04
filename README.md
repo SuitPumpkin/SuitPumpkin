@@ -4,12 +4,15 @@
 
 ### `@SuitPumpkin`
 
-**Software Developer · Game Developer · Creative Technologist**
+**Fullstack Developer — Web, Desktop & AI**
 
-Building software across web, desktop and games.
+Building software that reaches production, and writing about what I build.
 
 <br>
 
+<a href="https://webpagevs.onrender.com/">
+  <img src="https://img.shields.io/badge/LIVE%20PROJECT-262626?style=for-the-badge&logo=render&logoColor=white" />
+</a>
 <a href="https://suitpumpkinportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-262626?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -28,25 +31,45 @@ Building software across web, desktop and games.
 
 ---
 
+## 🌐 Live project
+
 <div align="center">
 
-## GitHub at a glance
+### [WebPageVS](https://webpagevs.onrender.com/) — real-time classroom web page competition
 
-<a href="https://github.com/SuitPumpkin">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuitPumpkin&theme=github_dark" />
-</a>
+**React · TypeScript · Node.js · Express · WebSocket · Docker**
 
-<br>
+[github.com/SuitPumpkin/WebPageVS](https://github.com/SuitPumpkin/WebPageVS)
 
-<br><br>
+The teacher loads a queue of projects, shares the room with a **code and a QR**, and students vote
+from their phones while results sync over WebSocket. Ties break **deterministically** with `+0.1`
+increments, and the outcome exports to CSV.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuitPumpkin&theme=github-dark-blue&hide_border=true" />
+**Try it — it is live, not a screenshot:** <https://webpagevs.onrender.com/>
+
+> Real scope, stated up front: room state lives **in memory**, so a container restart clears it, and
+> teacher access is a **single username/password pair**, not individual accounts.
 
 </div>
 
 ---
 
-# What I Build
+## 💼 Experience
+
+**GETINSOFT** · Fullstack Developer · Nov 2025 – Mar 2026
+
+Business management software for **2 client companies**, built with **React + TypeScript** on the
+frontend and **NestJS over PostgreSQL** on the backend, from an internal base template that
+**saved roughly 2 months of initial development**. Schema migrations ran on tables **already in
+production** without stopping the service. Worked in a **Scrum** team with a daily stand-up and
+multi-week sprints, reviewing teammates' code **with approval authority** in Azure DevOps
+Pull Requests. Also redesigned the UI/UX of both products.
+
+Earlier: bilingual customer service at Comcast, and outbound sales at Citibanamex.
+
+---
+
+## 🛠 What I build
 
 <div align="center">
 
@@ -58,9 +81,10 @@ Building software across web, desktop and games.
 
 **Full-stack applications**
 
-`TypeScript`
+`TypeScript` · `JavaScript`
 `React` · `Vue`
-`NestJS` · `Node.js`
+`NestJS` · `Node.js` · `Express`
+`WebSocket` · `Docker`
 
 </td>
 
@@ -68,24 +92,24 @@ Building software across web, desktop and games.
 
 ### SOFTWARE
 
-**Desktop applications**
+**Desktop and local tools**
 
-`C#` · `.NET`
-`WPF` · `Electron`
-`SQLite` · `MySQL`
+`C#` · `.NET` · `WPF`
+`Electron` · `MVVM`
+`SQLite`
 
 </td>
 
 <td align="center" width="33%">
 
-### GAMES
+### AI & AUTOMATION
 
-**Interactive experiences**
+**Runs entirely on-device**
 
-`Godot`
-`Unity`
-`Unreal Engine`
-`Roblox`
+`Python`
+`faster-whisper` · `Coqui XTTS v2`
+Local LLMs (GGUF / llama.cpp)
+`openWakeWord`
 
 </td>
 </tr>
@@ -93,97 +117,73 @@ Building software across web, desktop and games.
 
 </div>
 
----
+### Every technology above has a repository
 
-# Technology
+That is the rule I hold this profile to. If it is listed here, there is a public repo for it — with
+two deliberate exceptions, called out rather than hidden:
+
+- **Unreal Engine 5** — the repos are [`Productshowcase`](https://github.com/SuitPumpkin/Productshowcase)
+  and [`CUUnrealEngine`](https://github.com/SuitPumpkin/CUUnrealEngine). Both are **hundreds of
+  megabytes** because they version Unreal assets, so the code is under `Source/`.
+- **Vue** — a real frontend, but only on [`Pronostika`](https://github.com/SuitPumpkin/Will-It-Rain-On-My-Parade)
+  and a 0.2% sliver of the NASA Space Apps project. Not five months of professional React work.
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node.js" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
-
-<br>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br>
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
 </div>
 
 ---
 
-# Currently Building
+## 📌 Pinned work
 
-<div align="center">
-
-### DOWN 2 GET COOKED
-
-**Unity · C# · Game Development**
-
-An ongoing game project being developed toward a complete commercial release.
-
-<br>
-
-<a href="https://github.com/SuitPumpkin">
-  <img src="https://img.shields.io/badge/GAME%20DEVELOPMENT-FF8A00?style=for-the-badge&logo=godotengine&logoColor=white" />
-</a>
-
-</div>
+| Repo | What it shows |
+|---|---|
+| [**WebPageVS**](https://github.com/SuitPumpkin/WebPageVS) · [live](https://webpagevs.onrender.com/) | Full stack to production: Docker, WebSockets, deterministic tie-breaking, QR room access, CSV export |
+| [**ANEA**](https://github.com/SuitPumpkin/ANEA) | A local-only voice assistant: wake word, Whisper transcription, a local LLM over GGUF, and XTTS v2 voice synthesis |
+| [**SPPasswordVault**](https://github.com/SuitPumpkin/SPPasswordVault) | Real cryptography, not a toy: AES-256-GCM with per-write IV and authenticated tags, Argon2id key derivation, Electron |
+| [**Portafolio**](https://github.com/SuitPumpkin/Portafolio) · [live](https://suitpumpkinportfolio.vercel.app/) | React 19, Tailwind 4, Framer Motion, deployed on Vercel |
+| [**Will-It-Rain-On-My-Parade**](https://github.com/SuitPumpkin/Will-It-Rain-On-My-Parade) | NASA Space Apps Challenge Guadalajara 2025 — the one repo here with an open MIT licence |
 
 ---
 
-# My Development Philosophy
+## 🎓 Education
 
-<div align="center">
+**Licenciatura en Creatividad Digital** — CUGDL, Universidad de Guadalajara
+*In progress, expected 2027.* Software development, game development and digital media.
 
-> **I don't want to be limited to one ecosystem.**
-
-</div>
-
-I enjoy working across different areas of software development and choosing the tools that make sense for the problem.
-
-My current focus is **full-stack web development**, while my previous work with **C#/.NET**, desktop applications and Python gives me a broader foundation across software engineering.
-
-At the same time, I develop games with **Godot, Unity, Unreal Engine and Roblox**, allowing me to combine programming, systems design and interactive experiences.
+**Computer Engineering studies** — CUCEI, Universidad de Guadalajara
+*Not completed.* The programming courses I did take are part of how I work, but I did not finish
+the degree, so I do not list it as one.
 
 ---
 
-# Education
-
-**Bachelor's Degree in Digital Creativity**
-CUGDL · Currently studying
-
-Software development · Game development · Digital media · Creative technology
-
----
-
-# Open to Opportunities
+## 📫 Open to opportunities
 
 <div align="center">
 
-### I'm open to
-
-**Full-stack development · Software development · Game development · Freelance projects · Collaborations**
+**Full-stack development · Software development · AI tooling · Freelance · Collaborations**
 
 <br>
 
