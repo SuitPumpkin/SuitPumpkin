@@ -138,7 +138,7 @@ Building software across web, desktop and games.
 
 ### DOWN 2 GET COOKED
 
-**Unity · C# · Game Development**
+**Godot · GDScript/C# · Game Development**
 
 An ongoing game project being developed toward a complete commercial release.
 
@@ -173,6 +173,10 @@ At the same time, I develop games with **Godot, Unity, Unreal Engine and Roblox*
 **Bachelor's Degree in Digital Creativity**
 CUGDL · Currently studying
 
+**Computer engineering**
+CUCEI · Uncompleted
+
+**Over All**
 Software development · Game development · Digital media · Creative technology
 
 ---
